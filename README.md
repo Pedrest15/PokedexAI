@@ -1,5 +1,9 @@
 # PokedexAI
 
+![License](https://img.shields.io/github/license/Pedrest15/PokedexAI)
+![Python Version](https://img.shields.io/badge/python-3.8%2B-blue)
+![Code Size](https://img.shields.io/github/languages/code-size/Pedrest15/PokedexAI)
+
 PokedexAI is an application that utilizes machine learning to identify Pokémon in user-provided images.
 
 ## Table of Contents
